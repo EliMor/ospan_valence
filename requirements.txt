@@ -1,7 +1,6 @@
 BeautifulSoup==3.2.1
 beautifulsoup4==4.3.2
 boto==2.34.0
-ecdsa==0.11
 Flask==0.10.1
 future==0.14.3
 gnureadline==6.3.3
@@ -20,6 +19,5 @@ python-dateutil==2.3
 pytz==2014.10
 PyYAML==3.11
 requests==2.4.3
-salt==2014.7.0
 virtualenv==13.1.2
 virtualenvwrapper==4.7.1
