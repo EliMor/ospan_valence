@@ -25,7 +25,5 @@ pytz==2014.10
 PyYAML==3.11
 requests==2.4.3
 salt==2014.7.0
-vboxapi==1.0
 virtualenv==13.1.2
 virtualenvwrapper==4.7.1
-Werkzeug==0.11.3
